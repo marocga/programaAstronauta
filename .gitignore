@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# Temporary files
+*~
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+
 # Log file
 *.log
 
